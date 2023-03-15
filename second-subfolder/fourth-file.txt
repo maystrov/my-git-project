@@ -1,1 +1,3 @@
 Fourth file rext
+
+This file was modified in the new-feature branch
