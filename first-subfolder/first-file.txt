@@ -1,1 +1,3 @@
 First file text
+
+File was also changed in the main branch
